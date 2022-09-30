@@ -1,0 +1,15 @@
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\refint\ChainOfResponsibility.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll
