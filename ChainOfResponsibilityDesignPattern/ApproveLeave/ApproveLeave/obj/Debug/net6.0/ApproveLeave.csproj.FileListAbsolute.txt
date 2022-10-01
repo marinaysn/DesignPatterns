@@ -1,0 +1,15 @@
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\bin\Debug\net6.0\ApproveLeave.exe
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\bin\Debug\net6.0\ApproveLeave.deps.json
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\bin\Debug\net6.0\ApproveLeave.runtimeconfig.json
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\bin\Debug\net6.0\ApproveLeave.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\bin\Debug\net6.0\ApproveLeave.pdb
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\refint\ApproveLeave.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.pdb
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ApproveLeave.genruntimeconfig.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPattern\ChainOfResponsibilityDesignPattern\ApproveLeave\ApproveLeave\obj\Debug\net6.0\ref\ApproveLeave.dll
