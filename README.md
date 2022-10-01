@@ -1,2 +1,2 @@
-﻿# DesignPatterns review ith Alex
+﻿# DesignPatterns review with Alex
  
