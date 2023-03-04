@@ -1,0 +1,15 @@
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\bin\Debug\net6.0\BuilderDP.exe
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\bin\Debug\net6.0\BuilderDP.deps.json
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\bin\Debug\net6.0\BuilderDP.runtimeconfig.json
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\bin\Debug\net6.0\BuilderDP.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\bin\Debug\net6.0\BuilderDP.pdb
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\refint\BuilderDP.dll
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.pdb
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\BuilderDP.genruntimeconfig.cache
+C:\Users\marina\Documents\marina\study\GIT\DesignPatterns\Builder\Builder\BuilderDP\obj\Debug\net6.0\ref\BuilderDP.dll
