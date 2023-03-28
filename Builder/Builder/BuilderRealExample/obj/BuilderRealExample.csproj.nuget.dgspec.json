@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderDP\\BuilderDP.csproj": {}
+    "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderRealExample\\BuilderRealExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderDP\\BuilderDP.csproj": {
+    "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderRealExample\\BuilderRealExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderDP\\BuilderDP.csproj",
-        "projectName": "BuilderDP",
-        "projectPath": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderDP\\BuilderDP.csproj",
+        "projectUniqueName": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderRealExample\\BuilderRealExample.csproj",
+        "projectName": "BuilderRealExample",
+        "projectPath": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderRealExample\\BuilderRealExample.csproj",
         "packagesPath": "C:\\Users\\marina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderDP\\obj\\",
+        "outputPath": "C:\\Users\\marina\\Documents\\marina\\study\\GIT\\DesignPatterns\\Builder\\Builder\\BuilderRealExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
